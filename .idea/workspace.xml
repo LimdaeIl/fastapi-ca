@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="59a81f46-f069-47a5-a29e-0ad142636695" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/fastapi-ca.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alembic.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/containers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database_models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/migrantions/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/migrantions/env.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/migrantions/script.py.mako" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/migrantions/versions/2026_02_15_1515-e7f2faff6760_add_user_table.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/migrantions/versions/2026_02_15_1619-cba853f8d837_user_add_memo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/migrantions/versions/2026_02_15_1723-89a36c47b4d3_increase_password_length.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/application/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/application/user_service.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/domain/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/domain/repository/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/domain/repository/user_repo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/domain/user.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/infra/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/infra/db_models/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/infra/db_models/user.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/infra/repository/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/infra/repository/user_repo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/interface/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/interface/controllers/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/interface/controllers/user_controller.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/crypto.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/db_utils.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="39eSzb8o4xQ7E7mQWS8hN1bWUtH" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="flattenModules" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "ai.playground.ignore.import.keys.banner.in.settings": "true",
+    "com.github.patou.gitmoji.migration-offered": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/github/fastapi-ca",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\github\fastapi-ca\user\interface\controllers" />
+      <recent name="C:\github\fastapi-ca\user\interface" />
+      <recent name="C:\github\fastapi-ca\user\infra\db_models" />
+      <recent name="C:\github\fastapi-ca\utils" />
+      <recent name="C:\github\fastapi-ca\user" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\github\fastapi-ca\user\domain" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.30387.173" />
+        <option value="bundled-python-sdk-4762d8aabb82-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.30387.173" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="59a81f46-f069-47a5-a29e-0ad142636695" name="변경" comment="" />
+      <created>1771055306940</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1771055306940</updated>
+      <workItem from="1771055308071" duration="2935000" />
+      <workItem from="1771132082985" duration="19282000" />
+      <workItem from="1771318632650" duration="332000" />
+      <workItem from="1771318990364" duration="875000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
